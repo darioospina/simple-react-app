@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+#myphoto {
+ border: 10px solid rgba(0, 0, 0, 0.2);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
